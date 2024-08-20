@@ -1,6 +1,6 @@
 module github.com/danp/metronome
 
-go 1.24
+go 1.23
 
 require github.com/hajimehoshi/oto/v2 v2.4.2
 
